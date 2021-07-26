@@ -1,5 +1,3 @@
-Timbo
-Goldmann
-ist ein
-komischer
-Kauz
+import pyautogui
+
+pyautogui.click(25, 1056)
